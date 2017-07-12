@@ -22,6 +22,8 @@ Copy the codes to your local directory, then open CMD:
 
 #### GUI 
 The GUI should look like this:
+
+
 ![image](https://github.com/wliu2016/EventPicker/blob/master/Resources/GUI.png)
 
 #### Step by Step
