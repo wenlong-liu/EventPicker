@@ -2,3 +2,6 @@
 .idea
 __pycache__/
 export.csv
+build
+dist
+EventPicker.spec

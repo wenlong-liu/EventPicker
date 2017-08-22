@@ -136,7 +136,7 @@ class GraphFrame(wx.Frame):
             self.FIRST_TIME=False
         else:
             # clear the figure
-            self.axes.lines.pop(0)
+            #self.axes.lines.pop(0)
 
             self.axes.clear()
         self.path = self.m_filePicker.GetPath()
@@ -159,7 +159,7 @@ class GraphFrame(wx.Frame):
 
     def _plot_solute(self):
 
-        self.solute_line = self.axes2.plot(self.datenums, self.solute,color ='r')
+        self.solute_line = self.axes2.plot(self.datenums, self.solute,color='r')
         self.axes2.set_ylabel("Solute")
         #axes2.
 

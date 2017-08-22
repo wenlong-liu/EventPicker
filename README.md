@@ -5,7 +5,7 @@ This simple Python GUI is to help researchers locate and _pick_ a storm event th
 ### Usage
 Copy the codes to your local directory, then open CMD:
 
-    python ChartPickerGUI.py 
+    python EventPicker.py 
     
 ### Introduction
 
@@ -50,7 +50,7 @@ The python module you need install as follows:
 
 Windows 32 bit [Coming soon]()
 
-Windows 64 bit [Coming soon]()
+Windows  [64 bit](https://drive.google.com/a/ncsu.edu/file/d/0BxUa1f0vxQ_kN19mOGVXUjEteVE/view?usp=sharing)
 
 #### License
 
